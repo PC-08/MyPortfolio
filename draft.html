@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+        <div>
+            <img src="/assets/images/projects/${project.image}.png" alt= project.image   draggable="false" class="myProjects-img " />
+                <h3 class="myProjects-name"> ${project.name} </h3>
+            <div class="myProjects-desc">
+                <p> ${project.desc} </p>
+                <div class="myProjects-view">
+                    <button class="myProjects-viewButton">
+                        <i class="fas fa-eye"></i> 
+                        view
+                    </button>
+                </div>
+            </div>
+        </div>
+
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+            <a class="navbar-brand my_navbar " href="#"> <img class="header-logo" src="assets\images\logo.png" alt="logo"/> </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse my_navbar  ml-auto " id="navbarNav">
+              <ul   class="navbar-navmy_navbar_items">
+                <li class="nav-item active ">
+                  <a class="nav-link my_navbar_item" href="#HOME">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item ">
+                  <a class="nav-link my_navbar_item" href="#ABOUT"></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link my_navbar_item" href="#SKILLS">Skills</a>
+                </li>
+                <li class="nav-item my_navbar_item">
+                    <a class="nav-link" href="#EDUCATION">Education</a>
+                </li>
+                <li class="nav-item my_navbar_item">
+                    <a class="nav-link" href="#PROJECTS">Projects</a>
+                </li>
+                <li class="nav-item my_navbar_item">
+                    <a class="nav-link" href="#CONTACT">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav> 
+
+
+
+
+
+
+
+          <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="#">Features</a>
+                <a class="nav-item nav-link" href="#">Pricing</a>
+                <a class="nav-item nav-link disabled" href="#">Disabled</a>
+              </div>
+            </div>
+          </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

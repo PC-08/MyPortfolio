@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    height: 250px;
+    background-color: #03174c;
+
+}
+
+.home-page-bgclr {
+    background-color: #03174c;
+}
+
+.home-page-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 145px;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.text-cs {
+    color: #ffffff;
+    font-family: "Bree serif";
+}
+
+.text-cs1 {
+    color: #98a1bd;
+    font-family: "Bree serif";
+}
+
+.text-cs3 {
+    color: #ffe7bf;
+    font-family: "Bree serif";
+}
+
+
+.home-button {
+    color: #ffffff;
+    background-color: #8e97fd;
+    border-radius: 20px;
+    font-family: "Bree serif";
+    margin-bottom: 50px;
+    width: 120px;
+}
+
+.home-bottom-txt-btn {
+    text-align: center;
+
+}
+
+.bottom-text-size {
+    font-size: 13px;
+    text-align: center;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+
+.home-bottom-img-heading {
+    font-size: 30px;
+
+}
+
+
+.page1-back {
+    background-color: #03174c;
+}
+
+.page1-top-img {
+    height: 240px;
+    width: 100vw;
+
+}
+
+.page-1-bottom-img {
+    height: 100px;
+    width: 140px;
+    margin-right: 10px;
+
+}
+
+.page1-btn {
+    background-color: #8e97fd;
+    border-radius: 20px;
+    color: #ffffff;
+    font-family: "Bree serif";
+    width: 110px;
+    height: 35px;
+    margin-bottom: 30px;
+
+
+}
+
+.page1-bottom {
+    margin: 20px;
+}
+
+.icons-heading {
+    font-size: 18px;
+}
+
+.icon-duration {
+    font-size: 14px;
+}
+
+.page1-bottom-head {
+    font-size: 28px;
+}
+
+.page1-bottom-para {
+    font-size: 13px;
+}
+
+.page1-duration {
+    font-size: 13px;
+}
+
+.home-heading {
+
+    font-size: 28px;
+    text-align: center;
+    padding-top: 80px;
+
+
+}
+
+.home-top-para {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 120px;
+    margin-right: 15px;
+    margin-left: 15px;
+
+}

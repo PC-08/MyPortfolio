@@ -1,0 +1,55 @@
+[
+    {
+        "name" : "Daily Mood Tracker-React JS",
+        "desc" : "A Daily Mood Tracker app made with React.js lets users log and monitor their moods, providing visual insights into emotional patterns over time, all within an intuitive, responsive interface.",
+        "image"  : "https://res.cloudinary.com/ddtfzb2ki/image/upload/v1724398030/Moods_in_a_month_trrefh.jpg",
+        "category" : "Wed Development",
+        "url" : "https://moodtrackerpc08.ccbp.tech/"
+    },
+
+    {
+        "name" : "Nxt Trendz-React JS",
+        "desc" : "Nxt Trendz is a React.js-based e-commerce website clone offering a seamless shopping experience with secure payments and real-time inventory management.",
+        "image"  : "https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-products-filter-group-lg-output-v2.png",
+        "category" : "Wed Devdelopment",
+        "url" : "https://nxttrendzpc08.ccbp.tech/"
+    },
+
+    {
+        "name" : "NxtWatch-React JS",
+        "desc" : "NxtWatch is a React.js-based YouTube clone offering a smooth video streaming experience with features like video recommendations, search functionality, and user authentication.",
+        "image"  : "https://assets.ccbp.in/frontend/content/react-js/nxt-watch-home-success-light-theme-lg-output.png",
+        "category" : "Wed Development",
+        "url" : "https://nxtwatchpc08.ccbp.tech/"
+    },
+
+    {
+        "name" : "Jobby App-React JS",
+        "desc" : "Jobby is a LinkedIn clone built with React.js, featuring professional networking, job postings, and user profiles for career development and connections.",
+        "image"  : "https://res.cloudinary.com/ddtfzb2ki/image/upload/v1724397784/jobby-app_umomjr.png",
+        "category" : "Wed Development",
+        "url" : "https://jobbyapppc08.ccbp.tech/"
+    },
+
+    {
+        "name" : "IPL Dashboard App-React JS",
+        "desc" : "The IPL Dashboard App is a React.js-based clone that offers real-time updates, stats, and insights on IPL matches, teams, and players, replicating the functionality of popular cricket dashboards.",
+        "image"  : "https://assets.ccbp.in/frontend/content/react-js/ipl-dashboard-home-lg-output.png",
+        "category" : "Wed Development",
+        "url" : "https://pc-08.github.io/IPLDashboardApp-ReactJS/"
+    },
+
+    {
+        "name" : "My Tasks-React JS",
+        "desc" : "Your task app, My Task, is a to-do list application built with React.js, designed to help users manage and organize their tasks efficiently with features like adding, editing, and tracking tasks.",
+        "image"  : "https://assets.ccbp.in/frontend/content/react-js/my-tasks-output.png",
+        "category" : "Wed Development",
+        "url" : "https://pc-08.github.io/MyTasks-ReactJS/"
+    }
+
+    
+
+    
+
+    
+]

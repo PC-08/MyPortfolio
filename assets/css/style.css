@@ -1,0 +1,473 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap");
+
+
+
+
+
+.nav-item-Style {
+   
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.nav-Head {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
+}
+
+
+.about_me_heading {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.about_me_heading_span {
+    color: #9824c9;
+}
+
+.my_image {
+    border-radius: 16px;
+    height: 450px;
+    width: 300px;
+    margin-bottom: 50px;
+    
+}
+
+.about_me_para {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Brush Script MT', cursive;
+    color: black;
+
+}
+
+.about_me_para_container {
+    padding-left: 50px;
+}
+
+
+.about_me_name {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.about_me_role {
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.about_me_nameandplace_span {
+    font-weight: 600;
+    color: blue;
+}
+
+.about_me_nameandplace {
+    color: black;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.about_me_resume_btn {
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #9824c9;
+    color: white;
+    height: 45px;
+    width: 130px;
+    font-weight: 600;
+    margin-top: 20px;
+    font-family: "Roboto";
+}
+
+
+.skills_heading {
+    font-family: 'Brush Script MT';
+    font-weight: 600;
+    text-align: center;
+    
+    margin-bottom: 60px;
+    color: white;
+    
+}
+
+.skills_heading_bg {
+    background-color: #282828;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    margin-top: 100px;
+   
+}
+
+.skills_container_1{
+    background-color: #696969;
+    border-radius: 14px;
+    padding: 10px;
+   
+    
+}
+
+.skills_list {
+    padding: 5px;
+    margin: 20px;
+    background-color: #C0C0C0 ;
+    margin-right: 10px;
+    border-radius: 10px;
+    
+
+}
+
+.skill_image {
+    height: 60px;
+    width: 60px;
+}
+
+.skill_name {
+    font-weight: 600;
+    font-family: "Roboto";
+    padding-top: 5px;
+}
+
+
+.myEduction-bg {
+    display: block;
+    
+}
+
+
+.myEduction-Heading {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 15px;
+    
+
+}
+
+.education_Card_container {
+    padding: 50px;
+}
+
+.myEduction-Heading-span {
+    color: #9824c9;
+}
+
+.myEduction-Heading-caption {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 60px;
+}
+
+.myEduction-school {
+    height: 220px;
+    width: 300px;
+    
+}
+
+.myEduction-card {
+    background-color: white;
+    
+    padding: 10px;
+    
+}
+
+.myEduction-studyName {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    color: darkblue;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+
+.myEduction-studySchool {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    color: darkslategray;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+
+.myEduction-studyCompleted {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    color: darkgreen;
+    font-size: 18px;
+}
+
+
+
+
+
+.myProjects-bg {
+    background-color: #282828;
+    padding-top: 20px;
+    padding: 50px;
+}
+
+.myProjects-passwords {
+    color: white;
+    font-weight: 500;
+}
+
+.myProjects-heading {
+    font-family: 'Brush Script MT', cursive;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+
+.myProjects-heading-span {
+    color: yellow;
+}
+
+.myProjects-name {
+    
+    width: 200px;
+    background-color: yellow;
+}
+
+
+/* Style container 1 */
+.myprojects_container1 {
+    position: relative;
+    width: 325px;
+    height: 250px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-radius: 8px;
+    /* Changed height to auto */
+    overflow: hidden;
+    background-color: white;
+}
+
+/* Style image inside container 1 */
+.myprojects_container1 img {
+    width: 100%;
+    position: center;
+    height: auto;
+    display: block;
+}
+
+/* Style heading inside container 1 */
+.myprojects_container1 h2 {
+    position: absolute;
+    bottom: 0%;
+    background-color: rgb(255, 255, 43);
+    
+    /* Adjust as needed */
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: black;
+    margin: 0;
+    padding: 8px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Style container 2 */
+.myprojects_container2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    opacity: 95%;
+    background-color: white;
+    overflow: hidden;
+    color: black;
+    font-weight: 500;
+    transition: height 0.3s ease;
+}
+
+/* Style button inside container 2 */
+.myprojects_container2 button {
+    position: absolute;
+    
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: rgb(250, 218, 40);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+/* Show container 2 and scale container 1 when hovering over container 1 */
+
+
+.myprojects_container1:hover .myprojects_container2 {
+    height: 75%;
+}
+
+.myprojects_container2 p {
+    margin-left: 15px;
+}
+
+
+.footer-container {
+    background-color: darkslategray;
+    padding: 30px;
+    color: white;
+}
+
+.FooterQuickLinks {
+    color: white;
+    
+}
+
+.social_icon_container {
+    background-color: rgb(42, 50, 50);
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin: 5px;
+    border: 1px solid white;
+}
+
+.hero_sec_img {
+    width: 300px;
+}
+
+
+.icon-color {
+    color: white;
+}
+
+.header-logo {
+    width: 200px;
+}
+
+.myHome {
+    padding-top: 200px;
+    padding-bottom: 150px;
+    background-size: cover;
+    
+    font-weight: bold;
+    background-color: #282828;
+   
+    color: white;
+}
+
+
+.myHome-hello {
+    padding: 10px;
+}
+
+.myHome-greet {
+    padding: 10px;
+}
+
+.myHome-name {
+    padding: 10px;
+}
+
+.myHome-role {
+    padding: 10px;
+    width: 600px;
+}
+
+
+.footer-Line {
+    color: white;
+    padding: 10px;
+    border-color: white;
+    border-width: 3px;
+    
+}
+
+
+
+
+@media screen and (orientation:portrait) {
+    .mobileView {
+        display: flex;
+        flex-direction: column
+    }
+
+    .my_navbar {
+        margin-right: 0;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .header-logo{
+        width: 20px;
+    }
+    .my_navbar_items {
+        padding: 0;
+        margin: 0;
+    }
+
+    .my_navbar_item {
+      font-size: 16px;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .myEduction-school {
+        width: 275px;
+        
+    }
+
+    .myEduction-studyName {
+        font-size: 16px;
+    }
+
+    .myEduction-school {
+        font-size: 12px;
+    }
+
+    .myEduction-studyCompleted {
+        font-size: 16px;
+
+    }
+
+    
+    .myHome-role {
+        width: 300px;
+    }
+
+    .hero_sec_img {
+       width: 200px;
+       margin: 25px;
+       margin-top: 25px;
+    }
+
+    .home_sec_img {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    html,body {
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+      }
+}
+
+
+
+* {
+    font-family: 'Brush Script MT', cursive;
+}

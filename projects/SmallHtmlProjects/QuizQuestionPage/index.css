@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-color: #875fc0;
+    padding: 20px;
+}
+
+.bg-score {
+    color: #ffffff;
+    text-align: right;
+    font-size: 17px;
+}
+
+.top-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+}
+
+.top-card-heading {
+    color: #1f2933;
+    font-family: 'Roboto';
+    font-size: 20px;
+
+}
+
+.top-card-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+
+}
+
+.top-card-img {
+    width: 70vw;
+    height: 20vh;
+
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+
+.option-box {
+    list-style-type: none;
+
+}
+
+.c-option {
+    color: #ffffff;
+    background-color: #875fc0;
+}
+
+.button {
+    color: #ffffff;
+    width: 100px;
+    font-family: "Roboto";
+    border-radius: 8px;
+
+}
+
+.option {
+    color: #323f4b;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #323f4b;
+    border-radius: 8px;
+    padding: 13px;
+    margin: 10px;
+
+}
+
+.correct-option {
+    color: #ffffff;
+    background-color: #875fc0;
+}
+
+.options-list {
+    list-style-type: none;
+    padding: 0px;
+}

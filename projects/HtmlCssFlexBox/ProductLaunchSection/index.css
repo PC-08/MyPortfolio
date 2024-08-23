@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    font-family: "Roboto";
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/fairpods-darkpink-bg.png');
+}
+
+.img {
+    width: 180px;
+    align-self: center;
+}
+
+.main-h-1 {
+    color: #8e62d9;
+    font-size: 16px;
+}
+
+.main-h-2 {
+    color: white;
+    font-size: 30px;
+}
+
+.info {
+    color: white;
+    font-size: 14px;
+}
+
+.cus-btn {
+    border: 0 none;
+    padding: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: #ffdda9;
+}
+
+
+@media screen and (min-width:992px) {
+    .bg-container {
+        padding: 50px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/fairpods-blue-bg.png');
+    }
+
+    .img {
+        width: 300px;
+        order: 1;
+        padding-left: 30px;
+        ;
+    }
+
+    .main-h-1 {
+        font-size: 20px;
+    }
+
+
+    .main-h-2 {
+        font-size: 40px;
+    }
+
+    .info {
+        font-size: 18px;
+    }
+
+   
+}

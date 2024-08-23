@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    text-align: center;
+
+    background-image: radial-gradient(#c294d1, #4b4a7e);
+    padding: 20px;
+}
+
+.main-head {
+    font-size: 36px;
+    font-family: "Roboto";
+    color: #f1f5f9;
+}
+
+.card-info {
+    text-align: left;
+    margin-right: 10px;
+}
+
+.card {
+    flex-grow: 1;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 80px;
+    height: 100px;
+}
+
+.card-para {
+    color: #6e798c;
+    font-family: "Roboto";
+}
+
+.card-head {
+    color: #391484;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Roboto";
+}
+
+.icon {
+    color: #5d408c;
+    font-size: 30px;
+}
+
+.ic2 {
+    color: #2a4eaa;
+}
+
+.ic3 {
+    color: #9e619b;
+}
+
+.ic4 {
+    color: #391484;
+}
+
+
+@media (min-width:768px) {
+    img { 
+        width: 120px;
+    }
+
+    .main-head {
+        font-size: 46px;
+    }
+}

@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.main-head {
+    margin-left: 50px;
+    color: #011e3f;
+}
+
+.colors-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-box {
+    text-align: center;
+    color: white;
+    width: 120px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.box1 {
+    background-color: #f87171;
+}
+
+.box2 {
+    background-color: #fbbf24;
+}
+
+.box3 {
+    background-color: #facc15;
+}
+
+.box4 {
+    background-color: #a3e635;
+}
+
+.box5 {
+    background-color: #a3e635;
+}
+
+.box6 {
+    background-color: #4ade80;
+}
+
+.box7 {
+    background-color: #34d399;
+}
+
+.box8 {
+    background-color: #22d3ee;
+}
+
+.box9 {
+    background-color: #38bdf8;
+}
+
+.box10 {
+    background-color: #60a5fa;
+}
+
+.box11 {
+    background-color: #818cf8;
+}
+
+.box12 {
+    background-color: #c084fc;
+}
+
+.box13 {
+    background-color: #e879f9;
+}
+
+.box14 {
+    background-color: #f472b6;
+}
+
+.box15 {
+    background-color: #fb7185;
+}
+
+.color-head {
+    font-size: 20px;
+}

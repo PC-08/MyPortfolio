@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    background-size: cover;
+    height: 100vh;
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/dream-car-bg.png');
+    padding: 30px;
+}
+
+p {
+    color: white;
+    font-family: "Roboto";
+}
+
+h1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.info {
+    max-width: 400px;
+    max-height: 200px;
+}
+
+img {
+    max-height: 100px;
+}

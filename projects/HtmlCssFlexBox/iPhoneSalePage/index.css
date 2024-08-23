@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+
+
+.nav-logo {
+    max-width: 100px;
+}
+
+.navbar {
+    min-height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 15px;
+    background-image: linear-gradient(to right, #000000 40%, gray);
+}
+
+.links {
+    margin-right: 15px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.main-Content {
+    background-color: black;
+    height: 90vh;
+    font-family: "Roboto";
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.para {
+    color: white;
+    font-size: 20px;
+}
+
+.mobileimg {
+    max-width: 500px;
+    align-self: center;
+
+}
+
+.p2 {
+    color: #9aa5b1;
+    font-size: 20px;
+    align-self: flex-end;
+
+}

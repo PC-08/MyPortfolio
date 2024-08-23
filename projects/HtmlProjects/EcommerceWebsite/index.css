@@ -1,0 +1,374 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Ecommerce-Website-nav-logo {
+    height: 50px;
+    width: 110px;
+}
+
+#Ecommerce-Website-nav-itm-clr1 {
+    color: black;
+}
+
+#Ecommerce-Website-nav-itm-clr2 {
+    color: black;
+}
+
+#Ecommerce-Website-nav-itm-clr3 {
+    color: black;
+}
+
+#Ecommerce-Website-nav-itm-clr4 {
+    color: black;
+}
+
+.Ecommerce-Website-cour-height {
+    height: 100vh;
+
+}
+
+
+.Ecommerce-Website-Services-Section-head {
+    font-size: 32px;
+    font-weight: 600;
+    font-family: "Roboto";
+    color: #183b56;
+}
+
+.Ecommerce-Website-Services-Section-para {
+    font-size: 15px;
+    font-weight: 300;
+    font-family: "Roboto";
+    color: #616c7c;
+}
+
+.Ecommerce-Website-Services-Section-card {
+    text-align: center;
+    padding: 20px;
+}
+
+
+.Ecommerce-Website-Services-Section-card-img {
+    height: 80px;
+    width: 80px;
+}
+
+.Ecommerce-Website-Services-Section-card-head {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #1f2933;
+    margin-top: 8px;
+}
+
+.Ecommerce-Website-Services-Section-card-para {
+    font-size: 13px;
+    font-weight: 400;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+
+.Ecommerce-Website-Products-Section-head {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.Ecommerce-Website-Products-Section-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    padding: 30px;
+    border-radius: 15px;
+
+
+
+
+}
+
+.Ecommerce-Website-Products-Section-card2 {
+    background-size: cover;
+    padding: 20px;
+    border-radius: 15px;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+}
+
+.Ecommerce-Website-Products-Section-card-head {
+    color: white;
+    font-size: 30px;
+    font-weight: 550;
+    font-family: "Roboto";
+    margin-top: 50px;
+
+}
+
+.Ecommerce-Website-Products-Section-card-para {
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+
+.Ecommerce-Website-Products-Section-card-coustom-button {
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 15px;
+    font-family: "Roboto";
+    padding: 8px;
+    font-size: 13px;
+    width: 100px;
+}
+
+.Ecommerce-Website-Products-Section-card-span {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.Ecommerce-Website-Products-Section-card-modal-para {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.Ecommerce-Website-Products-Section-card-modal-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.Ecommerce-Website-Products-Section-card-modal-btn {
+    border-width: 2px;
+    border-style: solid;
+    background-color: white;
+    color: #323f4b;
+    border-radius: 8px;
+    font-weight: 400;
+}
+
+.Ecommerce-Website-Products-Section-offers {
+    color: #ff9f00;
+    font-weight: 700;
+    padding: 10px;
+    text-align: right;
+    font-family: "Roboto";
+}
+
+
+.Ecommerce-Website-Offers-Section-back {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.Ecommerce-Website-Offers-Section-head {
+    font-size: 24px;
+    font-family: "Bree Serif";
+    font-weight: 700;
+    color: #ad2167;
+    font-style: bold;
+    margin-top: 8px;
+}
+
+
+.Ecommerce-Website-Offers-Section-para {
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: white;
+}
+
+
+.Ecommerce-Website-Offers-Section-span {
+    font-size: 50;
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+
+
+.Ecommerce-Website-Trending-Blogs-Section-head {
+    color: #183b56;
+    font-size: 34px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+
+
+.Ecommerce-Website-Trending-Blogs-Section-card-head {
+    color: #959ead;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.Ecommerce-Website-Trending-Blogs-Section-card-head2 {
+    color: #183b56;
+    font-size: 19px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.Ecommerce-Website-Trending-Blogs-Section-card-para {
+    color: #959ead;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.Ecommerce-Website-Trending-Blogs-Section-card-link {
+    color: #ff9f00;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+
+.Ecommerce-Website-Explore-Section {
+    background-color: #f5f7fa;
+}
+
+.Ecommerce-Website-Explore-Section-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.Ecommerce-Website-Explore-Section-card {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.Ecommerce-Website-Explore-Section-card-head {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.Ecommerce-Website-Explore-Section-card-img {
+    height: 130px;
+    width: 135px;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+.Ecommerce-Website-Explore-Section-card-img-2 {
+    border-radius: 20px;
+    padding: 8px;
+}
+
+
+.Ecommerce-Website-Explore-Section-card-para {
+    text-align: center;
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin: 8px;
+}
+
+.Ecommerce-Website-Explore-Section-card-link {
+    margin-top: 10px;
+    color: #ff9f00;
+    text-align: left;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+
+.Ecommerce-Website-Contact-Us-Section-back {
+    background-color: #f5f7fa;
+    text-align: center;
+}
+
+.Ecommerce-Website-Contact-Us-Section-head {
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+
+.Ecommerce-Website-Contact-Us-Section-btn {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-weight: 400;
+    background-color: transparent;
+    padding: 5px;
+    border-style: solid;
+    border-color: #ff9f00;
+}
+
+.Ecommerce-Website-Footer-Section-back {
+    background-color: #0d2436;
+}
+
+.Ecommerce-Website-Footer-Section-logoimg {
+    height: 50px;
+}
+
+.Ecommerce-Website-Footer-Section-icon-back {
+    background-color: #152c3e;
+    height: 40px;
+    width: 40px;
+    padding: 8px;
+    border-radius: 40px;
+    margin: 5px;
+    margin-top: 10px;
+
+}
+
+.Ecommerce-Website-Footer-Section-icon-img {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.Ecommerce-Website-Footer-Section-add {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.Ecommerce-Website-Footer-Section-list-head {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+
+}
+
+.Ecommerce-Website-Footer-Section-list-para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 12px;
+
+
+}
+
+
+.Ecommerce-Website-Footer-Section-hr {
+
+
+    border-style: solid;
+    border-color: #5a7184;
+}
+
+.Ecommerce-Website-Footer-Section-copyrightlogo {
+    color: #5a7184;
+}
+
+.Ecommerce-Website-Footer-Section-copyrighttxt {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 12px;
+}

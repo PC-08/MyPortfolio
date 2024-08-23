@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.blog-head-con {
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-container {
+    font-family: Roboto;
+    padding: 20px;
+    background-color: #95b2ff;
+}
+
+.card {
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 40px;
+}
+
+.blog-head {
+    text-align: center;
+    color: #12022f;
+    font-size: 18px;
+}
+
+.blog-head2 {
+    color: #12022f;
+    font-size: 30px;
+}
+
+.card-items {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-size: cover;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.card-head {
+    font-size: 24px;
+    color: white;
+    height: 120px;
+}
+
+.card-btn {
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 5px;
+    color: white;
+}
+
+.card-img-market {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-marketing-strategies-sm-bg.png');
+}
+
+.card-img-nature {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-nature-bg.png');
+}
+
+.card-img-interior {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-interior-bg.png');
+}
+
+.card-img-coffee {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-coffee-bg.png');
+}
+
+.card-img-laptop {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-laptop-sm-bg.png');
+}
+
+.card-img-fruits {
+    background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-fruits-bg.png');
+}
+
+@media screen and (min-width:768px) {
+    
+
+    .card-items {
+        justify-content: space-between;
+        flex-direction: row;
+
+    }
+
+    .card-img-market {
+        flex-grow: 1;
+        width: 698px;
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-marketing-strategies-lg-bg.png');
+    }
+
+    .card-img-coffee {
+        flex-grow: 1;
+        width: 330px;
+    }
+
+    .card-img-fruits {
+        flex-grow: 1;
+        width: 330px;
+    }
+
+    .card-img-laptop {
+        flex-grow: 1;
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-laptop-lg-bg.png');
+    }
+
+    .card-img-laptop {
+        flex-grow: 1;
+        width: 698px;
+    }
+
+    .card-img-nature {
+        flex-grow: 1;
+        width: 330px;
+    }
+
+    .card-img-interior {
+        flex-grow: 1;
+        width: 330px;
+    }
+
+}
+
+@media screen and (min-width:1200px) {
+
+
+    .blog-head {
+        align-self: flex-start;
+    }
+
+    .card-items {
+        justify-content: space-between;
+        flex-direction: row;
+
+    }
+
+    .card-img-market {
+        flex-grow: 1;
+        width: 500px;
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-marketing-strategies-lg-bg.png');
+    }
+
+    .card-img-coffee {
+
+        width: 240px;
+    }
+
+    .card-img-fruits {
+
+        width: 250px;
+    }
+
+    .card-img-laptop {
+        flex-grow: 1;
+        order: 1;
+        width: 500px;
+        background-image: url('https://assets.ccbp.in/frontend/intermediate-rwd/popular-blog-laptop-lg-bg.png');
+    }
+
+
+
+    .card-img-nature {
+        width: 200px;
+
+
+    }
+
+    .card-img-interior {
+
+        width: 180px;
+    }
+}

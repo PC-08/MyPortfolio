@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 33vh;
+    background-size: cover;
+
+}
+
+.bg-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 15px;
+    font-size: 28px;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    padding: 18px;
+
+}
+
+.img-size {
+    height: 100px;
+    width: 130px;
+}
+
+.podcast-title {
+    font-size: 15px;
+    margin-top: 5px;
+    color: #151765;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.no-episodes {
+    font-size: 15px;
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.album-card {
+    text-align: center;
+    margin: 10px;
+
+
+}
+
+
+.top-card-img-margin {
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 110px;
+    width: 140px;
+
+
+}
+
+
+.top-card {
+    padding: 15px;
+    background-color: #151765;
+
+}
+
+.top-card-main-heading {
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 11px;
+    font-family: "Roboto";
+
+
+}
+
+.top-card-heading {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+.top-card-paragraph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.bottom-card {
+    padding: 10px;
+
+}
+
+.bottom-card-heading {
+    color: #151765;
+    font-size: 14px;
+    margin-top: 12px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.bottom-card-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 11px;
+
+
+}
+
+.bottom-card-minutes {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.bottom-card-margin {
+    margin-bottom: 10px;
+
+}
+
+.bottom-card-button {
+    color: #ffffff;
+    background-color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    width: 80px;
+    border-radius: 20px;
+    font-size: 13px;
+}

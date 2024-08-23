@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.flat-home-page-backimg {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.flat-home-page-card {
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    padding: 18px;
+    text-align: center;
+}
+
+.flat-home-page-head {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.flat-home-page-para {
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 17px;
+}
+
+.flat-home-page-btn {
+    background-color: #f19116;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.flat-list-page-back {
+    background-color: #222222;
+    padding: 15px;
+}
+
+.flat-list-page-head {
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 25px;
+}
+
+.flat-list-page-card {
+    margin-bottom: 15px;
+}
+
+.flat-list-page-card-img {
+    width: 85px;
+    height: 180px;
+    margin-right: 10px;
+}
+
+
+.flat-list-page-card-head {
+    font-family: "Bree Serif";
+    color: #0f0e46;
+    font-size: 25px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.flat-list-page-card-para {
+    font-family: "Bree Serif";
+    color: #6c6b70;
+    font-size: 13px;
+
+}
+
+.flat-list-page-btn {
+
+    background-color: #f19116;
+    color: #ffffff;
+    margin-top: 25px;
+    width: 90px;
+}
+
+.flat-detailed-view-backimg {
+    height: 40vh;
+
+
+}
+
+.flat-detailed-view-bottom {
+    background-color: #222222;
+    padding: 20px;
+}
+
+.flat-detailed-view-bottom-cost {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 23px;
+
+}
+
+.flat-detailed-view-bottom-location-pad {
+    padding-top: 10px;
+}
+
+.flat-detailed-view-bottom-location-img {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+
+.flat-detailed-view-bottom-location-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+
+}
+
+.flat-detailed-view-bottom-hr-line {
+    color: #ffffff;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.flat-detailed-view-bottom-des-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.flat-detailed-view-bottom-des-para {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.flat-detailed-view-bottom-button {
+    background-color: #f19116;
+    color: #ffffff;
+    margin-top: 25px;
+    width: 90px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}

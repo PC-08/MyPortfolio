@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.design-Navbar-Section-back {
+    background-color: #0C0521;
+}
+
+.design-Navbar-Section-logo {
+    height: 35px;
+    width: 125px;
+
+}
+
+#design-Navbar-Section-navitm1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+#design-Navbar-Section-navitm2 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+#design-Navbar-Section-navitm3 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+#design-Navbar-Section-navitm4 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+#design-Navbar-Section-navitm5 {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.design-banner-Section-back {
+    background-size: cover;
+    background-image: url('https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png');
+}
+
+.design-banner-Section-head {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+
+.design-banner-Section-head-span {
+    color: #FFDDA9;
+}
+
+.design-banner-Section-para {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.design-banner-Section-custom-btn {
+    color: #0C0521;
+    background-color: #FFDDA9;
+    font-weight: 800;
+    font-family: "Roboto";
+    width: 140px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+
+
+.design-Logos-Section-back {
+    background-color: #f9fbfe;
+}
+
+.design-Logos-Section-head {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.design-Logos-Section-com-logo {
+    width: 90px;
+    height: 35px;
+    padding: 8px;
+}
+
+.Design-and-Deliver-Section-card {
+    padding: 18px;
+}
+
+.Design-and-Deliver-Section-cardimg {
+    height: 140px;
+    width: 140px;
+}
+
+.Design-and-Deliver-Section-card-head {
+    color: #323f4b;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 15px;
+}
+
+.Design-and-Deliver-Section-card-para {
+    color: #7b8794;
+    font-weight: 400;
+    font-family: "Roboto";
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+
+.design-Tools-Section-card {
+    background-color: #ffffff;
+    padding: 18px;
+}
+
+.design-Tools-Section-card-img {
+    height: 250px;
+
+}
+
+.design-Tools-Section-card-head {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+    padding-top: 15px;
+
+}
+
+.design-Tools-Section-card-para {
+    color: #7b8794;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+
+
+.display-Features-Section-head {
+    color: #323f4b;
+    font-size: 22px;
+    font-weight: 800;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.display-Features-Section-para {
+    color: #9aa5b1;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.display-Features-Section-img {
+    height: 75px;
+    margin-right: 5px;
+    width: 100px;
+
+}
+
+.display-Features-Section-faetures-head {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+
+}
+
+.display-Features-Section-faetures-para {
+    color: #7b8794;
+    font-size: 11px;
+    font-weight: 400;
+    font-family: "Roboto";
+
+}

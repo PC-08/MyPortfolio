@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <link rel="stylesheet" href="./index.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/ac42c3b1f7.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container">
+        <h1 class="main-heading-1">Answer the Question</h1>
+        <form id="questionsForm" class=" cuscard">
+            <h1 class="head-2">What is the captial of India? </h1>
+            <div>
+                <input id="cityHyderabad" value="Hyderabad" class="radio-p" type="radio" name="country" />
+                <label class="ml-2" for="cityHyderabad">Hyderabad</label>
+                <br>
+
+                <input id="cityChennai" value="Chennai" class="radio-p" type="radio" name="country" />
+                <label class="ml-2" for="cityChennai">Chennai</label>
+                <br>
+
+                <input id="cityDelhi" value="Delhi" class="radio-p" type="radio" name="country" />
+                <label class="ml-2" for="cityDelhi">Delhi</label>
+                <br>
+
+                <input id="cityMumbai" value="Mumbai" class="radio-p" type="radio" name="country" />
+                <label class="ml-2" for="cityMumbai">Mumbai</label>
+                <br>
+
+            </div>
+            <button type="sumbit" id="submitBtn" class="mt-3 btn btn-primary">
+                Submit
+            </button>
+
+            <p id="resultMsg" class="error mt-4"></p>
+        </form>
+
+    </div>
+    
+    <script src="index.js">
+    </script>
+</body>
+
+</html>
