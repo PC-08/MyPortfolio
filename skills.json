@@ -43,7 +43,16 @@
     {
         "name" : "WordPress",
         "icon" : "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name" : "Shopify",
+        "icon" : "https://img.icons8.com/color/48/000000/shopify.png"
+    },
+    {
+        "name" : "My Sql",
+        "icon" : "https://img.icons8.com/color/48/000000/mysql.png"
     }
+    
 
 
 
